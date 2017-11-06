@@ -1,0 +1,6 @@
+D:\dawid\CWICZENIA NR 5 v2\CWICZENIA NR 5 v2\bin\Debug\CWICZENIA NR 5 v2.exe.config
+D:\dawid\CWICZENIA NR 5 v2\CWICZENIA NR 5 v2\bin\Debug\CWICZENIA NR 5 v2.exe
+D:\dawid\CWICZENIA NR 5 v2\CWICZENIA NR 5 v2\bin\Debug\CWICZENIA NR 5 v2.pdb
+D:\dawid\CWICZENIA NR 5 v2\CWICZENIA NR 5 v2\obj\Debug\CWICZENIA NR 5 v2.csprojResolveAssemblyReference.cache
+D:\dawid\CWICZENIA NR 5 v2\CWICZENIA NR 5 v2\obj\Debug\CWICZENIA NR 5 v2.exe
+D:\dawid\CWICZENIA NR 5 v2\CWICZENIA NR 5 v2\obj\Debug\CWICZENIA NR 5 v2.pdb
